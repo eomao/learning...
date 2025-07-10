@@ -1,7 +1,6 @@
 package D2_1;
 import java.util.Arrays;
 import java.util.Random;
-import java.util.Scanner;
 
 public class num_2 {
     static void swap(int[] a, int num1, int num2){
